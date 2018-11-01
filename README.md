@@ -1,2 +1,2 @@
 # CPU-54
-单周期54条MIPS指令CPU
+单周期54条MIPS指令CPU存档
